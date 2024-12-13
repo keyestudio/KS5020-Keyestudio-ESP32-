@@ -4,7 +4,7 @@
    :caption: keyestudio docs
 
    README.md
-   docs/Arduino_C_教程 - 副本.md
+   docs/Arduino_C.md
 
 
 
