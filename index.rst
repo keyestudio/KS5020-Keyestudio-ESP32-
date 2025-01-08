@@ -4,8 +4,8 @@
    :caption: KS5020  Keyestudio ESP32 物联网 学习套件
 
    README.md
-   docs/Arduino_C_Tutorial.md
-   docs/MicroPython_Tutorial.md
+   docs/1. Arduino_C_教程.md
+   docs/2. MicroPython_教程.md
 
 
 
