@@ -1,5 +1,5 @@
 /*  
- * Filename: Temperature-humidity meter
+ * Filename: Temperature-Humidity Meter
  * Function: I2C 128×32 LCD display temperature and humidity to simulate the temperature and humidity meter
  * Compiling IDE：ARDUINO 2.3.3
  * Author: https://www.keyestudio.com/
